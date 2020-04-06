@@ -5,7 +5,7 @@
     android:id="@+id/submit"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#FFFFCC"
+    android:background="@color/background"
     android:orientation="horizontal"
     tools:context=".StudentDetailsCategory">
 

@@ -19,5 +19,6 @@
     <string name="names">name</string>
     <string name="upload">Upload</string>
     <string name="enter_the_name_of_the_file">Enter the filename</string>
+    <string name="upload_here">Upload Here</string>
 
 </resources>
