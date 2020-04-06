@@ -12,7 +12,7 @@
     </style>
 
     <style name="button_theme" parent="Widget.MaterialComponents.Button">
-        <item name="android:textColor">#fff</item>
+        <item name="android:textColor">@color/textclr</item>
         <item name="android:textStyle">bold</item>
         <item name="android:background">@drawable/gradient_button</item>
         <item name="android:layout_margin">5dp</item>
@@ -26,11 +26,12 @@
 
     <style name="card" parent="Widget.MaterialComponents.CardView">
             <item name="cardCornerRadius">30dp</item>
+        <item name="android:fontFamily">@font/opensans</item>
         <item name="cardBackgroundColor">@color/btn_round_clr</item>
 
     </style>
 <style name="category_btn_theme" parent="Theme.AppCompat.Light.DarkActionBar">
-    <item name="android:textColor">#fff</item>
+    <item name="android:textColor">@color/textclr</item>
     <item name="android:textAlignment">center</item>
     <item name="android:textSize">50sp</item>
     <item name="android:background">@drawable/sscategorybackground</item>
